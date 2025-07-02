@@ -87,4 +87,4 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 This project is licensed under the MIT License. See `LICENSE` for details.  
 
 ## 📬 Contact  
-For questions or collaboration, email [your_email@example.com](mailto:your_email@example.com).  
+For questions or collaboration, email a.kornaev@ronc.ru.  
