@@ -78,6 +78,7 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 4. **Sekuboyina, A. K., et al. (2019)**. *The Liver Tumor Segmentation Benchmark (LiTS)*. [arXiv](https://arxiv.org/abs/1901.04056 ).
 5. **Chen, L., et al. (2024)**. *Vision Models Are Becoming Better Image Feature Extractors Than Manual Annotations*. [arXiv](https://arxiv.org/abs/2404.00578 )
 6. **Waqas, A., Tripathi, A., and Rasool, G. (2024)**. *Embedding-based Multimodal Learning on Pan-Squamous Cell Carcinomas for Improved Survival Outcomes*. [DOI](https://doi.org/10.3389/frai.2024.1430984 )
+7. **Chen, C., et al. (2024)**. *MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation*. [GitHub](https://github.com/cchen-cc/MA-SAM )
 ---
 
 ## 📄 License  
