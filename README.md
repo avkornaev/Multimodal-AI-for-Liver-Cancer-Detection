@@ -32,9 +32,9 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 | Dataset          | Modalities          | Features                                      | Source                                                                 |
 |------------------|---------------------|-----------------------------------------------|------------------------------------------------------------------------|
 | **LiTS17**       | CT                  | Liver/tumor masks, diverse lesion sizes       | [LiTS Challenge](https://competitions.codalab.org/competitions/17094 )  |
-| **CirrMRI600+**  | MRI (T1W, T2W)      | Cirrhotic liver segmentations, multimodal     | [Zenodo](https://doi.org/10.5281/zenodo.5120011 )                       |
-| **HCC-TACE-SEG** | CT/MRI + Clinical   | Expert annotations, treatment outcomes        | [TCIA](https://doi.org/10.7937/TCIA.2022.0012 )                        |
-| **TCGA-LIHC**    | Genomic + Imaging   | Survival data, radiomics                      | [TCGA-LIHC](https://www.cancer.gov/about-nci/organization/ccg/research/project-pages/the-cancer-genome-atlas ) |
+| **CirrMRI600+**  | MRI (T1W, T2W)      | Cirrhotic liver segmentations, multimodal     | [Git](https://github.com/NUBagciLab/CirrMRI600Plus)                       |
+| **HCC-TACE-SEG** | CT/MRI + Clinical   | Expert annotations, treatment outcomes        | [Git](https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/HCC-TACE-Seg.md)                        |
+| **TCGA-LIHC**    | Genomic + Imaging   | Survival data, radiomics                      | [TCGA-LIHC](https://www.cancer.gov/about-nci/organization/ccg/research/project-pages/the-cancer-genome-atlas )(https://portal.gdc.cancer.gov/projects/TCGA-LIHC) |
 
 ---
 
@@ -72,30 +72,12 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 
 ---
 ## 📚 References  
-1. **Esteva, A., et al. (2022)**. *Multimodal prostate cancer risk stratification*. Nature Medicine. [DOI](https://doi.org/10.1038/s41591-022-01779-x )  
-2. **Zhou, Z., et al. (2021)**. *Models Genesis: Self-supervised learning for medical imaging*. IEEE Transactions on Medical Imaging. [DOI](https://doi.org/10.1109/TMI.2021.3057614 )  
-3. **Guarrasi, V., et al. (2024)**. *Latent shift analysis for multimodal fusion*. Medical Image Analysis. [DOI](https://doi.org/10.1016/j.media.2024.103201 )  
-4. **Saha, S., et al. (2024)**. *MISA: Multimodal independent subspace analysis*. NeurIPS. [arXiv](https://doi.org/10.48550/arXiv.2403.03204 )  
-5. **Zhu, J., et al. (2017)**. *CycleGAN for unpaired image-to-image translation*. arXiv:1703.10593.  
-6. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
-7. **Azur, M.J., et al. (2011)**. *Multiple imputation by chained equations*. Wiley Interdisciplinary Reviews: Computational Statistics. [DOI](https://doi.org/10.1002/wics.147 )  
-
----
-
-## 📚 References  
-1. **Esteva, A., et al. (2022)**. *Multimodal prostate cancer risk stratification*. Nature Medicine. [DOI](https://doi.org/10.1038/s41591-022-01779-x )  
-2. **Zhou, Z., et al. (2021)**. *Models Genesis: Self-supervised learning for medical imaging*. IEEE Transactions on Medical Imaging. [DOI](https://doi.org/10.1109/TMI.2021.3057614 )  
-3. **Guarrasi, V., et al. (2024)**. *Latent shift analysis for multimodal fusion*. Medical Image Analysis. [DOI](https://doi.org/10.1016/j.media.2024.103201 )  
-4. **Saha, S., et al. (2024)**. *MISA: Multimodal independent subspace analysis*. NeurIPS. [arXiv](https://doi.org/10.48550/arXiv.2403.03204 )  
-5. **Zhu, J., et al. (2017)**. *CycleGAN for unpaired image-to-image translation*. arXiv:1703.10593.  
-6. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
-7. **Azur, M.J., et al. (2011)**. *Multiple imputation by chained equations*. Wiley Interdisciplinary Reviews: Computational Statistics. [DOI](https://doi.org/10.1002/wics.147 )
-8. ## 📚 References
-
-1. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
-2. **Saha, S., et al. (2024)**. *Latent shift analysis for multimodal fusion*. NeurIPS. [arXiv](https://doi.org/10.48550/arXiv.2403.03204 )  
-3. **Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications** (2025). *Medical Image Analysis*, 1361-8415. [DOI](https://doi.org/10.1016/j.media.2025.13618415 )
-
+1. **Radford, A., et al. (2021)**. *Learning Transferable Visual Models From Natural Language Supervision*. [arXiv](https://arxiv.org/abs/2103.00020). 
+2. **van der Gijp, A., et al. (2025)**. *Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications*. Medical Image Analysis. [DOI](https://doi.org/10.1016/j.media.2025.102123 )
+3. **Mi, Z., et al. (2025)**. *Multi-instance curriculum learning for histopathology image classification with bias reduction*. Medical Image Analysis. [DOI](https://doi.org/10.1016/j.media.2025.102157 ) 
+4. **Sekuboyina, A. K., et al. (2019)**. *The Liver Tumor Segmentation Benchmark (LiTS)*. [arXiv](https://arxiv.org/abs/1901.04056 ).
+5. **Chen, L., et al. (2024)**. *Vision Models Are Becoming Better Image Feature Extractors Than Manual Annotations*. [arXiv](https://arxiv.org/abs/2404.00578 )
+6. **Waqas, A., Tripathi, A., and Rasool, G. (2024)**. *Embedding-based Multimodal Learning on Pan-Squamous Cell Carcinomas for Improved Survival Outcomes*. [DOI](https://doi.org/10.3389/frai.2024.1430984 )
 ---
 
 ## 📄 License  
