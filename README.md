@@ -34,7 +34,7 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 | **LiTS17**       | CT                  | Liver/tumor masks, diverse lesion sizes       | [LiTS Challenge](https://competitions.codalab.org/competitions/17094 )  |
 | **CirrMRI600+**  | MRI (T1W, T2W)      | Cirrhotic liver segmentations, multimodal     | [Git](https://github.com/NUBagciLab/CirrMRI600Plus)                       |
 | **HCC-TACE-SEG** | CT/MRI + Clinical   | Expert annotations, treatment outcomes        | [Git](https://github.com/openmedlab/Awesome-Medical-Dataset/blob/main/resources/HCC-TACE-Seg.md)                        |
-| **TCGA-LIHC**    | Genomic + Imaging   | Survival data, radiomics                      | [TCGA-LIHC](https://www.cancer.gov/about-nci/organization/ccg/research/project-pages/the-cancer-genome-atlas )(https://portal.gdc.cancer.gov/projects/TCGA-LIHC) |
+| **TCGA-LIHC**    | Genomic + Imaging   | Survival data, radiomics                      | [TCGA-LIHC](https://portal.gdc.cancer.gov/projects/TCGA-LIHC) |
 
 ---
 
