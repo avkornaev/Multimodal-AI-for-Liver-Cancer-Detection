@@ -71,7 +71,6 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
   - Publish curated datasets (CC-BY license).  
 
 ---
-
 ## 📚 References  
 1. **Esteva, A., et al. (2022)**. *Multimodal prostate cancer risk stratification*. Nature Medicine. [DOI](https://doi.org/10.1038/s41591-022-01779-x )  
 2. **Zhou, Z., et al. (2021)**. *Models Genesis: Self-supervised learning for medical imaging*. IEEE Transactions on Medical Imaging. [DOI](https://doi.org/10.1109/TMI.2021.3057614 )  
@@ -80,6 +79,22 @@ This repository implements a **multimodal AI framework** for liver cancer (hepat
 5. **Zhu, J., et al. (2017)**. *CycleGAN for unpaired image-to-image translation*. arXiv:1703.10593.  
 6. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
 7. **Azur, M.J., et al. (2011)**. *Multiple imputation by chained equations*. Wiley Interdisciplinary Reviews: Computational Statistics. [DOI](https://doi.org/10.1002/wics.147 )  
+
+---
+
+## 📚 References  
+1. **Esteva, A., et al. (2022)**. *Multimodal prostate cancer risk stratification*. Nature Medicine. [DOI](https://doi.org/10.1038/s41591-022-01779-x )  
+2. **Zhou, Z., et al. (2021)**. *Models Genesis: Self-supervised learning for medical imaging*. IEEE Transactions on Medical Imaging. [DOI](https://doi.org/10.1109/TMI.2021.3057614 )  
+3. **Guarrasi, V., et al. (2024)**. *Latent shift analysis for multimodal fusion*. Medical Image Analysis. [DOI](https://doi.org/10.1016/j.media.2024.103201 )  
+4. **Saha, S., et al. (2024)**. *MISA: Multimodal independent subspace analysis*. NeurIPS. [arXiv](https://doi.org/10.48550/arXiv.2403.03204 )  
+5. **Zhu, J., et al. (2017)**. *CycleGAN for unpaired image-to-image translation*. arXiv:1703.10593.  
+6. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
+7. **Azur, M.J., et al. (2011)**. *Multiple imputation by chained equations*. Wiley Interdisciplinary Reviews: Computational Statistics. [DOI](https://doi.org/10.1002/wics.147 )
+8. ## 📚 References
+
+1. **Macenko, M., et al. (2009)**. *Stain normalization for histopathology*. ISBI. [DOI](https://doi.org/10.1109/ISBI.2009.5193250 )  
+2. **Saha, S., et al. (2024)**. *Latent shift analysis for multimodal fusion*. NeurIPS. [arXiv](https://doi.org/10.48550/arXiv.2403.03204 )  
+3. **Navigating the landscape of multimodal AI in medicine: A scoping review on technical challenges and clinical applications** (2025). *Medical Image Analysis*, 1361-8415. [DOI](https://doi.org/10.1016/j.media.2025.13618415 )
 
 ---
 
